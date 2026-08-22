@@ -4,7 +4,7 @@ function Education() {
       degree: "Bachelor of Technology (B.Tech)",
       field: "Computer Science Engineering",
       college: "MPCT Gwalior, Madhya Pradesh",
-      year: "2026",
+      year: "2023 – 2026",
       score: "GPA: 7.4 / 10",
     },
     {
